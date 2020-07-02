@@ -1,3 +1,3 @@
-# simon_game
+# simon game
 
 <img src="image.png">
